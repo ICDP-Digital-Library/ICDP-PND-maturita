@@ -40,6 +40,5 @@ settoriale.
 
   introduzione-al-tema-e-metodologie-impiegate/cenni-ai-principali-modelli-di-maturity-assessment-utilizzati-in-ambito-aziendale.rst
 
-.. [1]
-   Finnis, J. (2020). *The Digital Transformation Agenda and GLAMs: A
+.. [1] Finnis, J. (2020). *The Digital Transformation Agenda and GLAMs: A
    Quick Scan Report for Europeana.* Culture24.

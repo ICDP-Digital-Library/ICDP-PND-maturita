@@ -17,8 +17,8 @@ I modelli sono stati concepiti come strumenti di autovalutazione, con i
 quali le istituzioni culturali possono mappare le proprie attività e
 strategie digitali.
 
-Digitalematuriteit [1]_ (Belgio)
---------------------------------
+Digitalematuriteit (Belgio) [5]_
+--------------------------
 
 Nel 2019 il Flemish Department for Culture, Youth and Media ha chiesto
 al consorzio pubblico Meemoo di sviluppare uno strumento online facile
@@ -96,7 +96,7 @@ comprende un totale di 47 domande.
 
 Le organizzazioni che scelgono di creare un account possono utilizzare
 il metodo di autovalutazione beneficiando di significativi
-vantaggi [2]_: gli utenti registrati ricevono, infatti, commenti,
+vantaggi [6]_: gli utenti registrati ricevono, infatti, commenti,
 analisi settoriali e reportistiche personalizzate che rendono più
 concrete le questioni affrontate; possono impostare confronti selettivi
 filtrando i risultati in base al sotto-settore di riferimento, al numero
@@ -164,7 +164,7 @@ le collezioni e formulare narrazioni in forme inedite – ad esempio
 attraverso una performance, un concerto, una mostra, una collezione
 d’arte – e fruibili in formato digitale.
 
-Un buon esempio è il Performance Technology Lab [3]_, un’iniziativa di
+Un buon esempio è il Performance Technology Lab [7]_, un’iniziativa di
 Feikes Huis, Cinedans, Likeminds e Beamlab, che organizza laboratori per
 produttori in cui è possibile sperimentare vecchie e nuove tecnologie.
 La conoscenza generata da questo processo viene condivisa su una
@@ -181,7 +181,7 @@ particolare, i momenti in cui nascono nuove forme di esperienza pubblica
 in formato digitale – ad esempio attraverso un concerto online, una
 mostra virtuale o un archivio digitale.
 
-Un buon esempio è il robot telecomandato Double [4]_ con cui ci si può
+Un buon esempio è il robot telecomandato Double [8]_ con cui ci si può
 muovere negli spazi virtuali della mostra “The Swarm”, che esamina
 l’interazione tra intelligenza artificiale e naturale. Il visitatore
 controlla, a distanza, il robot di telepresenza che viene inviato e
@@ -196,7 +196,7 @@ allo sviluppo di nuovi modelli gestionali o all’aumento della capacità
 di generare ricavi?”.
 
 Ad esempio, durante il lockdown ascrivibile alla pandemia di Covid-19,
-archivi come il BHIC [5]_ hanno lanciato o potenziato le loro funzioni
+archivi come il BHIC [9]_ hanno lanciato o potenziato le loro funzioni
 di chat per rimanere in rapporto con i propri pubblici, ricevendo un
 riscontro positivo dagli utenti esistenti e intercettando anche un nuovo
 pubblico internazionale, costituito ad esempio da ricercatori che vivono
@@ -208,7 +208,7 @@ Il quarto quadrante concerne il lavoro digitale nell’organizzazione. La
 digitalizzazione impatta sui processi di supporto alla produzione, come
 nel caso del lavoro da remoto, della co-creazione o dell’archiviazione
 in digitale. Ad esempio, numerose compagnie di danza hanno iniziato a
-digitalizzare i propri contenuti [6]_, efficientando la gestione delle
+digitalizzare i propri contenuti [10]_, efficientando la gestione delle
 informazioni e assicurando una maggior efficacia delle operazioni
 interne.
 
@@ -221,7 +221,7 @@ qualunque ente interessato può valutare la propria strategia digitale
 compilando online un semplice questionario: le risposte vengono
 automaticamente tracciate sul Focus Model, e inserite nei quadranti
 Creazione, Esperienza, Valore e Processo (le attività possono rientrare
-in più quadranti) [7]_.
+in più quadranti) [11]_.
 
 Il modello analizza le informazioni inserite ed elabora una risposta in
 forma di “consiglio”, rivelando il posizionamento rispondente nel
@@ -262,8 +262,8 @@ rispondendo, per ciascuna di esse, a 12 domande.*
 
 |image3|
 
-Digital Culture Compass [8]_ (Regno Unito)
-------------------------------------------
+Digital Culture Compass [12]_ (Regno Unito)
+-----------------------
 
 Commissionato dall’Arts Council England e dal National Lottery Heritage
 Fund nell’ambito del progetto *Culture is Digital initiative* del
@@ -336,9 +336,9 @@ funzioni aziendali caratterizzanti un’organizzazione culturale.
 
 |image5|
 
-|C:\Users\Valentina\AppData\Local\Microsoft\Windows\INetCache\Content.Word\4_b.jpg|
+|image6|
 
-|C:\Users\Valentina\AppData\Local\Microsoft\Windows\INetCache\Content.Word\4_b.jpg|
+|image7|
 
 |image8|
 
@@ -477,65 +477,55 @@ autovalutazione e di disporre di *tool* online per svolgere il percorso
 di *assessment*. Entrambe queste caratteristiche si ritengono
 fondamentali per il successo del metodo.
 
-.. [1]
-    Finnis, J. (2020). *The Digital Transformation Agenda and GLAMs. A
+.. [5] Finnis, J. (2020). *The Digital Transformation Agenda and GLAMs. A
    Quick Scan Report for Europeana.* Culture24.
 
-.. [2]
-    Nel primo anno di esistenza, il sito web è stato visitato 1.700
+.. [6] Nel primo anno di esistenza, il sito web è stato visitato 1.700
    volte da 1.275 visitatori e sono stati creati 51 account. Meemoo ha
    contato 362 sessioni completate, di cui 115 totalmente (con il 19% di
    utenti registrati) e 247 parzialmente.
 
-.. [3]
+.. [7] https://www.den.nl/actueel/artikelen/460/ruimte-voor-experiment-hoe-technologie-en-artistiek-concept-bij-elkaar-komen-in-het-performance-technology-lab
 
-   https://www.den.nl/actueel/artikelen/460/ruimte-voor-experiment-hoe-technologie-en-artistiek-concept-bij-elkaar-komen-in-het-performance-technology-lab
+.. [8] https://www.den.nl/actueel/artikelen/461/met-robot-double-door-de-tentoonstelling-the-swarm
 
-.. [4]
+.. [9] https://www.bhic.nl/english
 
-   https://www.den.nl/actueel/artikelen/461/met-robot-double-door-de-tentoonstelling-the-swarm
-
-.. [5]
-    https://www.bhic.nl/english
-
-.. [6]
-    Nederlands Dans Theatre (NDT), Dutch National Opera & Ballet (NO&B),
+.. [10] Nederlands Dans Theatre (NDT), Dutch National Opera & Ballet (NO&B),
    International Choreographic Arts Centre Amsterdam (ICK), Rotterdam
    Scapino Ballet.
 
-.. [7]
-    Ad esempio, se in una mostra sono stati utilizzati mezzi digitali,
+.. [11] Ad esempio, se in una mostra sono stati utilizzati mezzi digitali,
    l’attività è collocata nel quadrante Creazione. Se l’obiettivo è
    quello di coinvolgere digitalmente il pubblico in una performance,
    l’attività rientra invece nel quadrante Esperienza.
 
-.. [8]
-    Finnis, J. (2020). *The Digital Transformation Agenda and GLAMs. A
+.. [12] Finnis, J. (2020). *The Digital Transformation Agenda and GLAMs. A
    Quick Scan Report for Europeana.* Culture24.
 
-.. |image0| image:: ./media/image3.png
+.. |image0| image:: ../media/image3.png
    :width: 5.17968in
    :height: 2.41776in
-.. |image1| image:: ./media/image4.png
+.. |image1| image:: ../media/image4.png
    :width: 5.21301in
    :height: 4.14216in
-.. |image2| image:: ./media/image5.jpeg
-.. |image3| image:: ./media/image6.jpeg
-.. |image4| image:: ./media/image7.jpeg
-.. |image5| image:: ./media/image8.jpeg
-.. |C:\Users\Valentina\AppData\Local\Microsoft\Windows\INetCache\Content.Word\4_b.jpg| image:: ./media/image9.jpeg
+.. |image2| image:: ../media/image5.jpeg
+.. |image3| image:: ../media/image6.jpeg
+.. |image4| image:: ../media/image7.jpeg
+.. |image5| image:: ../media/image8.jpeg
+.. |image6| image:: ../media/image9.jpeg
    :width: 5.21212in
    :height: 2.57213in
-.. |C:\Users\Valentina\AppData\Local\Microsoft\Windows\INetCache\Content.Word\4_b.jpg| image:: ./media/image10.jpeg
+.. |image7| image:: ../media/image10.jpeg
    :width: 5.33333in
    :height: 2.0875in
-.. |image8| image:: ./media/image11.jpeg
-.. |image9| image:: ./media/image12.jpeg
-.. |image10| image:: ./media/image13.jpeg
-.. |image11| image:: ./media/image14.jpeg
-.. |image12| image:: ./media/image15.jpeg
-.. |image13| image:: ./media/image16.jpeg
-.. |image14| image:: ./media/image17.jpeg
-.. |image15| image:: ./media/image18.jpeg
-.. |image16| image:: ./media/image19.jpeg
-.. |image17| image:: ./media/image20.jpeg
+.. |image8| image:: ../media/image11.jpeg
+.. |image9| image:: ../media/image12.jpeg
+.. |image10| image:: ../media/image13.jpeg
+.. |image11| image:: ../media/image14.jpeg
+.. |image12| image:: ../media/image15.jpeg
+.. |image13| image:: ../media/image16.jpeg
+.. |image14| image:: ../media/image17.jpeg
+.. |image15| image:: ../media/image18.jpeg
+.. |image16| image:: ../media/image19.jpeg
+.. |image17| image:: ../media/image20.jpeg
