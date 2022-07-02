@@ -1,14 +1,14 @@
 Uno studio condotto sui musei italiani
 ======================================
 
-A livello nazionale, è interessante osservare il recente studio di
-Agostino e Costantini (2021) [4]_ in cui è stato sviluppato un quadro
-metodologico per valutare il livello di trasformazione digitale di
-un’organizzazione museale.
+In particolare, a livello nazionale, è interessante osservare il recente
+studio di Agostino e Costantini (2021) [1]_ in cui è stato sviluppato un
+quadro metodologico per valutare il livello di trasformazione digitale
+di un’organizzazione museale.
 
 Il quadro di riferimento è stato basato sull’esame della letteratura che
-esamina le dimensioni, gli indicatori, le metriche e i metodi per la
-valutazione della trasformazione digitale delle organizzazioni, e
+riporta le dimensioni, gli indicatori, le metriche e i metodi per la
+valutazione della trasformazione digitale delle organizzazioni e
 presenta una serie di misure di performance che possono essere adottate
 per capire e valutare come i musei italiani stiano affrontando la
 trasformazione digitale.
@@ -22,10 +22,8 @@ investimenti*. Queste dimensioni sono state ulteriormente articolate in
 sotto-dimensioni misurate attraverso la somministrazione di alcune
 domande mirate (Tabella 1).
 
-
-**Tabella 1.** *Digital Readiness Index (DRI): quadro metodologico*
-
-*(Nota: i numeri decimali tra parentesi indicano il peso di ciascuna
+**Tabella 1.** *Digital Readiness Index (DRI): quadro metodologico
+(Nota: i numeri decimali tra parentesi indicano il peso di ciascuna
 dimensione e sotto-dimensione nel calcolo del valore dell’indice
 sintetico)*
 
@@ -154,7 +152,7 @@ di loro non utilizza alcun sistema informativo.
 Sono pochi i musei che utilizzano i dati e le tecniche di marketing
 digitale per attrarre nuovi visitatori. Tuttavia, i social network
 cominciano ad essere utilizzati, dato che il 69% dei musei ha almeno un
-account sui social, confermando la crescente necessità di utilizzarli
+profilo sui social, confermando la crescente necessità di utilizzarli
 come strumenti di comunicazione e interazione con i visitatori.
 
 -  *Strategia e investimenti* (capacità di attivare una strategia
@@ -187,12 +185,11 @@ readiness* per ciascuna dimensione e sotto-dimensione tra le
 organizzazioni, al fine di identificare le diverse strategie
 organizzative e gli approcci alla trasformazione digitale. In termini di
 misurazione delle performance, questo aspetto riflette la necessità di
-sviluppare ulteriori analisi comparative di pratiche e misure digitali.
+sviluppare ulteriori analisi comparative di pratiche e misure
+digitali.
 
-.. [4] Debora Agostino, Chiara Costantini, *A measurement framework for
-   assessing the digital transformation of cultural institutions: *the
-   Italian case*, Meditari Accountancy Research, 2021.
+.. [1] Debora Agostino, Chiara Costantini, *A measurement framework for
+   assessing the digital transformation of cultural institutions: the
+   Italian cas* e, Meditari Accountancy Research, 2021.
 
 .. |image0| image:: ../media/image2.png
-   :width: 5.73214in
-   :height: 3.93919in

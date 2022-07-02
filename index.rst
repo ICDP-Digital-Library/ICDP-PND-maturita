@@ -1,10 +1,15 @@
-**Piano nazionale di digitalizzazione del patrimonio culturale**
+============================================================
+Piano nazionale di digitalizzazione del patrimonio culturale 
+============================================================
 
-Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali
-=================================================================================================
 |image0|
 
-**Versione in consultazione 2022-2023**
+**2022-2023**
+
+**Versione n.1.0 - giugno 2022**
+
+ 
+**Introduzione alla metodologia per la valutazione della maturità digitale degli istituti culturali**
 
 .. toctree::
   :maxdepth: 3
@@ -12,8 +17,13 @@ Introduzione alla metodologia per la valutazione della maturità digitale degli 
 
   crediti.rst
   premessa.rst
+
+.. toctree::
+  :maxdepth: 3
+  :numbered:
+
   introduzione-al-tema-e-metodologie-impiegate.rst
-  applicazione-di-tali-modelli-al-patrimonio-culturale-pubblico.rst
+  applicazione-dei-modelli-al-patrimonio-culturale-pubblico.rst
   conclusioni.rst
 
 .. |image0| image:: ./media/image1.png
