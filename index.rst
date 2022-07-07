@@ -13,18 +13,14 @@ Piano nazionale di digitalizzazione del patrimonio culturale 
 
 .. toctree::
   :maxdepth: 3
+  :numbered:
   :caption: Indice dei contenuti
 
-  crediti.rst
   premessa.rst
-
-.. toctree::
-  :maxdepth: 3
-  :numbered:
-
   introduzione-al-tema-e-metodologie-impiegate.rst
   applicazione-dei-modelli-al-patrimonio-culturale-pubblico.rst
   conclusioni.rst
+  crediti.rst
 
 .. |image0| image:: ./media/image1.png
    :width: 1.55347in
