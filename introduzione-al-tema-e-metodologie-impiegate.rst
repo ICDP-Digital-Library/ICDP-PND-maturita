@@ -4,7 +4,7 @@ Introduzione al tema e metodologie impiegate
 La maturità digitale è definita come “la capacità di un’istituzione di
 utilizzare, gestire, creare e comprendere il digitale, in modo
 contestuale (adatto al proprio ambiente e alle proprie esigenze
-specifiche), olistico (che coinvolge la visione, la leadership, il
+specifiche), olistico (che coinvolge la visione, la *leadership*, il
 processo, la cultura e l’organizzazione) e propositivo (costantemente
 allineato alla missione dell’istituzione)” [1]_.
 

@@ -13,7 +13,7 @@ applicati al settore culturale:
 -  Digital Culture Compass, Department for Digital, Culture, Media and
    Sport (UK),
 
--  ENUMERATE Self-Assessment Tool (EU).
+-  ENUMERATE *Self-Assessment Tool* (EU).
 
 I modelli sono stati concepiti come strumenti di auto-valutazione, con i
 quali le istituzioni culturali possono mappare le proprie attività e
@@ -122,7 +122,7 @@ raccomandazioni utili.
 *DEN Focus Model* (Olanda)
 --------------------------
 
-Il **Focus Model** è un tool online progettato dal DEN Knowledge
+Il **Focus Model** è un *tool* online progettato dal DEN Knowledge
 Institute Culture & Digital Transformation - istituzione di supporto
 sovra-settoriale finanziata dal ministero olandese dell’Istruzione,
 della Cultura e della Scienza – per guidare le istituzioni culturali nel
@@ -197,7 +197,7 @@ migliorare gli impatti sociali dell’istituzione? Come agisce rispetto
 allo sviluppo di nuovi modelli gestionali o all’aumento della capacità
 di generare ricavi?”
 
-Ad esempio, durante il lockdown ascrivibile alla pandemia di Covid-19,
+Ad esempio, durante il *lockdown* ascrivibile alla pandemia di Covid-19,
 archivi come il BHIC [5]_ hanno lanciato o potenziato le loro funzioni
 di chat per rimanere in rapporto con i propri pubblici, ricevendo un
 riscontro positivo dagli utenti esistenti e intercettando anche un nuovo
@@ -1165,8 +1165,8 @@ finanziato dal programma Horizon 2020, che riunisce un consorzio di 15
 organizzazioni provenienti da 9 diversi Paesi europei. Il progetto mira
 a conoscere l’impatto della cultura digitale e della digitalizzazione
 nel settore dei beni culturali, rispondendo alla necessità di un (ri)uso
-innovativo dei beni culturali. Per poter utilizzare il tool è necessario
-creare un account o accedere all'Open Observatory di inDICEs.
+innovativo dei beni culturali. Per poter utilizzare il *tool* è necessario
+creare un *account* o accedere all'Open Observatory di inDICEs.
 
 Sito web:
 https://pro.europeana.eu/post/the-enumerate-self-assessment-tool-gain-insight-into-your-institution-s-digital-transformation
@@ -1187,7 +1187,7 @@ fornite.
 |image10|
 
 Dopo aver compilato le domande, compare una pagina web con due menu a
-tendina relativi ai due output fondamentali del tool: le raccomandazioni
+tendina relativi ai due output fondamentali del *tool*: le raccomandazioni
 (*Key recommendations*) e le risorse (*Resources*).
 
 |image11|
@@ -1329,7 +1329,7 @@ caratteristiche specifiche del settore culturale nazionale.
 |                       |    interattive        |                        |
 +-----------------------+-----------------------+------------------------+
 | ENUMERATE             | -  Questionario molto | -  Il questionario     |
-| Self-Assessment Tool  |    dettagliato e      |    può essere          |
+| *Self-Assessment Tool*|    dettagliato e      |    può essere          |
 | (EU)                  |    specifico          |    compilato solo in   |
 |                       |                       |    lingua inglese      |
 |                       | -  È ben strutturato  |                        |
@@ -1342,7 +1342,7 @@ caratteristiche specifiche del settore culturale nazionale.
 |                       |    delle domande in   |    scaricare e         |
 |                       |    numerose lingue    |    leggere le domande  |
 |                       |                       |    prima di avviare    |
-|                       | -  Fornisce           |    il tool, data la    |
+|                       | -  Fornisce           |    il *tool*, data la  |
 |                       |    raccomandazioni e  |    specificità di      |
 |                       |    risorse utili per  |    alcuni aspetti      |
 |                       |    guidare le         |    indagati            |
@@ -1365,7 +1365,7 @@ caratteristiche specifiche del settore culturale nazionale.
 |                       |                       |    con delle stime     |
 |                       |                       |    soggettive mette    |
 |                       |                       |    in dubbio la        |
-|                       |                       |    capacità del tool   |
+|                       |                       |    capacità del *tool* |
 |                       |                       |    di analizzare       |
 |                       |                       |    correttamente la    |
 |                       |                       |    maturità digitale   |
@@ -1373,7 +1373,7 @@ caratteristiche specifiche del settore culturale nazionale.
 
 Ciò che i quattro casi analizzati hanno in comune è la possibilità per
 gli istituti culturali di accedere in autonomia allo strumento di
-auto-valutazione e di disporre di un tool online per svolgere il
+auto-valutazione e di disporre di un *tool* online per svolgere il
 percorso di *assessment*. Entrambe queste caratteristiche, essendo
 ritenute fondamentali per il successo del metodo, saranno replicate
 anche nel caso dello strumento di autovalutazione per i luoghi della
