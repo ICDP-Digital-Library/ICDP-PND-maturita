@@ -2,7 +2,7 @@ Uno studio condotto sui musei italiani
 ======================================
 
 In particolare, a livello nazionale, è interessante osservare il recente
-studio di Agostino e Costantini (2021) [1]_ in cui è stato sviluppato un
+studio di Agostino e Costantini (2021) [3]_ in cui è stato sviluppato un
 quadro metodologico per valutare il livello di trasformazione digitale
 di un’organizzazione museale.
 
@@ -188,7 +188,7 @@ misurazione delle performance, questo aspetto riflette la necessità di
 sviluppare ulteriori analisi comparative di pratiche e misure
 digitali.
 
-.. [1] Debora Agostino, Chiara Costantini, *A measurement framework for
+.. [3] Debora Agostino, Chiara Costantini, *A measurement framework for
    assessing the digital transformation of cultural institutions: the
    Italian cas* e, Meditari Accountancy Research, 2021.
 

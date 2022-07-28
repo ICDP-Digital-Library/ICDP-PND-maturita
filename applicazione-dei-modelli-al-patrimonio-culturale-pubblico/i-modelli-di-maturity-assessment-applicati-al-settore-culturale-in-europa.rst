@@ -19,7 +19,7 @@ I modelli sono stati concepiti come strumenti di auto-valutazione, con i
 quali le istituzioni culturali possono mappare le proprie attività e
 strategie digitali.
 
-*Digitalematuriteit* [1]_ (Belgio)
+*Digitalematuriteit* [4]_ (Belgio)
 ----------------------------------
 
 Nel 2019 il Flemish Department for Culture, Youth and Media ha chiesto
@@ -98,7 +98,7 @@ comprende un totale di 47 domande.
 
 Le organizzazioni che scelgono di creare un account possono utilizzare
 il metodo di auto-valutazione beneficiando di significativi
-vantaggi [2]_: gli utenti registrati ricevono, infatti, commenti,
+vantaggi [5]_: gli utenti registrati ricevono, infatti, commenti,
 analisi settoriali e reportistiche personalizzate che rendono più
 concrete le questioni affrontate; possono impostare confronti selettivi
 filtrando i risultati in base al sotto-settore di riferimento, al numero
@@ -166,7 +166,7 @@ le collezioni e formulare narrazioni in forme inedite – ad esempio
 attraverso una performance, un concerto, una mostra, una collezione
 d’arte – e fruibili in formato digitale.
 
-Un buon esempio è il Performance Technology Lab [3]_, un’iniziativa di
+Un buon esempio è il Performance Technology Lab [6]_, un’iniziativa di
 Feikes Huis, Cinedans, Likeminds e Beamlab, che organizza laboratori per
 produttori in cui è possibile sperimentare vecchie e nuove tecnologie.
 La conoscenza generata da questo processo viene condivisa su una
@@ -183,7 +183,7 @@ particolare, i momenti in cui nascono nuove forme di esperienza pubblica
 in formato digitale – ad esempio attraverso un concerto online, una
 mostra virtuale o un archivio digitale.
 
-Un buon esempio è il robot telecomandato Double [4]_ con cui ci si può
+Un buon esempio è il robot telecomandato Double [7]_ con cui ci si può
 muovere negli spazi virtuali della mostra “The Swarm”, che esamina
 l’interazione tra intelligenza artificiale e naturale. Il visitatore
 controlla, a distanza, il robot di telepresenza che viene inviato e
@@ -198,7 +198,7 @@ allo sviluppo di nuovi modelli gestionali o all’aumento della capacità
 di generare ricavi?”
 
 Ad esempio, durante il *lockdown* ascrivibile alla pandemia di Covid-19,
-archivi come il BHIC [5]_ hanno lanciato o potenziato le loro funzioni
+archivi come il BHIC [8]_ hanno lanciato o potenziato le loro funzioni
 di chat per rimanere in rapporto con i propri pubblici, ricevendo un
 riscontro positivo dagli utenti esistenti e intercettando anche un nuovo
 pubblico internazionale, costituito ad esempio da ricercatori che vivono
@@ -210,7 +210,7 @@ Il quarto quadrante concerne il lavoro digitale nell’organizzazione. La
 digitalizzazione impatta sui processi di supporto alla produzione, come
 nel caso del lavoro da remoto, della co-creazione o dell’archiviazione
 in digitale. Ad esempio, numerose compagnie di danza hanno iniziato a
-digitalizzare i propri contenuti [6]_, efficientando la gestione delle
+digitalizzare i propri contenuti [9]_, efficientando la gestione delle
 informazioni e assicurando una maggior efficacia delle operazioni
 interne.
 
@@ -223,7 +223,7 @@ qualunque ente interessato può valutare la propria strategia digitale
 compilando online un semplice questionario: le risposte vengono
 automaticamente tracciate sul Focus Model, e inserite nei quadranti
 Creazione, Esperienza, Valore e Processo (le attività possono rientrare
-in più quadranti) [7]_.
+in più quadranti) [10]_.
 
 Il modello analizza le informazioni inserite ed elabora una risposta in
 forma di “consiglio”, rivelando il posizionamento rispondente nel
@@ -324,7 +324,7 @@ rispondendo, per ciascuna di esse, a 12 domande.*
 | riferimento alla DEN Academy.                                         |
 +-----------------------------------------------------------------------+
 
-*Digital Culture Compass* [8]_ (Regno Unito)
+*Digital Culture Compass* [11]_ (Regno Unito)
 --------------------------------------------
 
 Commissionato dall’Arts Council England e dal National Lottery Heritage
@@ -1224,7 +1224,7 @@ Confronti
 Si riporta di seguito una tabella di sintesi in cui sono state messe a
 confronto le diverse “filosofie” di approccio dei quattro modelli di
 *maturity assessment* per le organizzazioni culturali già sperimentati
-in Europa evidenziandone vantaggi e svantaggi. I diversi aspetti
+in Europa, evidenziandone vantaggi e svantaggi. I diversi aspetti
 esaminati saranno, da un lato, presi in considerazione per una
 progettazione ottimale dello strumento di autovalutazione per i luoghi
 della cultura italiani, dall’altro calati e declinati in funzione delle
@@ -1379,30 +1379,30 @@ ritenute fondamentali per il successo del metodo, saranno replicate
 anche nel caso dello strumento di autovalutazione per i luoghi della
 cultura italiani.
 
-.. [1] Finnis, J. (2020). *The Digital Transformation Agenda and GLAMs. A
+.. [4] Finnis, J. (2020). *The Digital Transformation Agenda and GLAMs. A
    Quick Scan Report for Europeana.* Culture24.
 
-.. [2] Nel primo anno di esistenza, il sito web è stato visitato 1.700
+.. [5] Nel primo anno di esistenza, il sito web è stato visitato 1.700
    volte da 1.275 visitatori e sono stati creati 51 account. Meemoo ha
    contato 362 sessioni completate, di cui 115 totalmente (con il 19% di
    utenti registrati) e 247 parzialmente.
 
-.. [3] https://www.den.nl/actueel/artikelen/460/ruimte-voor-experiment-hoe-technologie-en-artistiek-concept-bij-elkaar-komen-in-het-performance-technology-lab
+.. [6] https://www.den.nl/actueel/artikelen/460/ruimte-voor-experiment-hoe-technologie-en-artistiek-concept-bij-elkaar-komen-in-het-performance-technology-lab
 
-.. [4] https://www.den.nl/actueel/artikelen/461/met-robot-double-door-de-tentoonstelling-the-swarm
+.. [7] https://www.den.nl/actueel/artikelen/461/met-robot-double-door-de-tentoonstelling-the-swarm
 
-.. [5] https://www.bhic.nl/english
+.. [8] https://www.bhic.nl/english
 
-.. [6] Nederlands Dans Theatre (NDT), Dutch National Opera & Ballet (NO&B),
+.. [9] Nederlands Dans Theatre (NDT), Dutch National Opera & Ballet (NO&B),
    International Choreographic Arts Centre Amsterdam (ICK), Rotterdam
    Scapino Ballet.
 
-.. [7] Ad esempio, se in una mostra sono stati utilizzati mezzi digitali,
+.. [10] Ad esempio, se in una mostra sono stati utilizzati mezzi digitali,
    l’attività è collocata nel quadrante Creazione. Se l’obiettivo è
    quello di coinvolgere digitalmente il pubblico in una performance,
    l’attività rientra invece nel quadrante Esperienza.
 
-.. [8] Finnis, J. (2020). *The Digital Transformation Agenda and GLAMs. A
+.. [11] Finnis, J. (2020). *The Digital Transformation Agenda and GLAMs. A
    Quick Scan Report for Europeana.* Culture24.
 
 .. |image0| image:: ../media/image3.png
